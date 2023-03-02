@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding:0px ;
+  box-sizing: border-box;
+}
+body{
+  /* background-color: aqua; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.navbar{
+  border: 2px solid red;
+  display: flex;
+  justify-content: space-between;
+  height: 75px;
+  align-items: center;
+  width: 85%;
+  margin: auto;
+  background-color: orange;
+}
+.menuBlock ul li a{
+text-decoration: none;
+color: black;
+}
+.menuBlock ul{
+  display: flex;
+  justify-content:space-around;
+  width: 380px;
+  list-style: none;
+  font-weight: bold;
+  color:black;
+}
+img{
+  width: 150px;
+  height: 80px;
+}

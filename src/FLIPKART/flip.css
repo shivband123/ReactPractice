@@ -1,0 +1,51 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: 0px;
+}
+body{
+  font-family: sans-serif;
+}
+.navbar{
+  border: 2px solid blue;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+  height: 75px;
+  width: 100%;
+  background-color: blue;
+}
+.menuBlock ul li a{
+text-decoration: none;
+color: white;
+}
+.menuBlock ul{
+display: flex;
+justify-content: space-around;
+list-style: none;
+width: 380px;
+font-weight: bold;
+}
+input{
+  height: 50px;
+  width: 350px;
+  border: none;
+}
+.inputDiv{
+  border-radius: 5px;
+  border: 2px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inputDiv img{
+ height: 50px;
+  width :50px;
+  align-items: center;
+  background-color: white;
+}
+.logo img{
+  height: 85px;
+  width:200px
+}

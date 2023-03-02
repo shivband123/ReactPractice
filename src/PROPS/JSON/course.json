@@ -1,0 +1,41 @@
+[
+  {
+    "Course_name" :"JAVA FULL STACK",
+    "Trainer_name" :"Shankar sir",
+    "Duration" :"3 Months",
+    "Photo" :"https://yt3.googleusercontent.com/ytc/AL5GRJUdubYYR51Ei6qhIzlbzI25CGzcj5DpfS50ZV5ebg=s900-c-k-c0x00ffffff-no-rj",
+    "Languages" :[
+                  "Core java",
+                  "Sql",
+                  "WebTech",
+                  "JDbc",
+                  "Ser"
+    ]
+  },
+  {
+    "Course_name" :"MER_STACK",
+    "Trainer_name" :"Uma shankar sir",
+    "Duration" :"4 Months", 
+    "Photo" :"https://img.mensxp.com/media/content/2022/Apr/Image-1_62691f8632ae8.jpeg",
+    "Languages" :[
+                  "React",
+                  "Node",
+                  "Mango db",
+                  "Express",
+                  "JS"
+    ]
+  },
+  {
+    "Course_name" :"CHA_MBU STACK",
+    "Trainer_name" :"Rah_ul sir",
+    "Duration" :"3 Months",
+    "Photo" :"https://5.imimg.com/data5/LI/PC/MY-75057704/copper-lota-500x500.jpg",
+    "Languages" : [
+                  "Marker",
+                  "143",
+                  "Nan_mak",
+                  "ooh_Yes",
+                  "Rod"
+    ]
+  }
+  ]
