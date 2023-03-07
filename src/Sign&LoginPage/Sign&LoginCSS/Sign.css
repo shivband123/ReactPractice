@@ -8,6 +8,7 @@ body{
   border: 2px solid black;
   display: flex;
   justify-content: center;
+  background-image:linear-gradient(rgb(136, 125, 125));
   border-radius: 30px;
   height: 500px;
   width: 400px;
