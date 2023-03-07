@@ -1,0 +1,91 @@
+[
+  {
+    "emp_id":143,
+    "emp_Name":"Shiva",
+    "emp_sal":5000000,
+    "emp_designation":" Associate Eng",
+    "emp_gender":"Male",
+    "emp_eduction":"BE(Eng)",
+    "emp_exp":"2year",
+    "emp_company":{"previous":"Techno",
+                      "current":"Infosys"},
+    "emp_img":"https://images.odishatv.in/uploadimage/library/16_9/16_9_5/Yash_1658807759.webp",
+    "emp_Skills":["java","sql","web","React","Node","spring"],
+    "emp_city":"KLB"
+  },
+  
+  {
+    "emp_id":123,
+    "emp_Name":"Anu",
+    "emp_sal":450000,
+    "emp_designation":" React_dev",
+    "emp_gender":"female",
+    "emp_eduction":"BE(Eng)",
+    "emp_exp":"2year",
+    "emp_company":{"previous":"Test",
+                      "current":"IBM"},
+    "emp_img":"https://static.toiimg.com/photo/90059734.cms",
+    "emp_Skills":["java","sql","web","React","Node","spring"],
+    "emp_city":"Beng"
+  },
+  
+  {
+    "emp_id":253,
+    "emp_Name":"NVG",
+    "emp_sal":15000,
+    "emp_designation":"Trainee Associate",
+    "emp_gender":"Male",
+    "emp_eduction":"BE(Eng)",
+    "emp_exp":"2year",
+    "emp_company":{"previous":"TCS",
+                      "current":"Accenture"},
+    "emp_img":"https://bbts1.azureedge.net/images/p/full/2021/10/d03088a7-1a73-44a8-aed5-b1e56da4e9e9.jpg",
+    "emp_Skills":["java","sql","web","React","Node","spring"],
+    "emp_city":"Mysore"
+  },
+  
+  {
+    "emp_id":789,
+    "emp_Name":"Raj",
+    "emp_sal":2500000,
+    "emp_designation":" java_dev",
+    "emp_gender":"Male",
+    "emp_eduction":"BE(Eng)",
+    "emp_exp":"5year",
+    "emp_company":{"previous":"Test",
+                      "current":"ISR"},
+    "emp_img":"https://yt3.googleusercontent.com/ytc/AL5GRJUdubYYR51Ei6qhIzlbzI25CGzcj5DpfS50ZV5ebg=s900-c-k-c0x00ffffff-no-rj",
+  "emp_Skills":["java","sql","web","React","Node","spring"],
+    "emp_city":"Beng"
+  },
+  
+  {
+    "emp_id":125,
+    "emp_Name":"Gang",
+    "emp_sal":4500000,
+    "emp_designation":"js dev",
+    "emp_gender":"female",
+    "emp_eduction":"BE(Eng)",
+    "emp_exp":"6year",
+    "emp_company":{"previous":"capgemini",
+                      "current":"Infosys"},
+    "emp_img":"https://static.tnnbt.in/thumb/msid-96855132,width-900,height-1200,resizemode-6.cms",
+    "emp_Skills":["java","sql","web","React","Node","spring"],
+    "emp_city":"Hyd"
+  },
+  
+  {
+    "emp_id":193,
+    "emp_Name":"Rocky",
+    "emp_sal":4500000,
+    "emp_designation":"Node eng",
+    "emp_gender":"Male",
+    "emp_eduction":"BE(Eng)",
+    "emp_exp":"3year",
+    "emp_company":{"previous":"Test",
+                      "current":"BEL"},
+    "emp_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYRmKhMs2FtdDu_z0jGceQHM__7NsS7gX-2lSdowUyoancAie0K9Mmcb_CYCFpnV6Mtk&usqp=CAU",
+    "emp_Skills":["java","sql","web","React","Node","spring"],
+    "emp_city":"MH"
+  }
+]

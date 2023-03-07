@@ -1,18 +1,18 @@
 import React ,{useRef, useState} from 'react'
 import VIDEO from "./kGF.mp4"
 
-const Playpause = () => {
-  let [video , setvideo]=useState(VIDEO)
-  let [play ,setplay]=useState(false)
+const PlayPause = () => {
+  let [video , setVideo]=useState(VIDEO)
+  let [play ,setPlay]=useState(false)
   let videoRef=useRef()
   let handleChange=()=>{
     if(!play)
     {
-      setplay(true)
+      setPlay(true)
       videoRef.current.play()
     }
     else{
-      setplay(false)
+      setPlay(false)
       videoRef.current.pause()
     }
   }
@@ -23,4 +23,4 @@ const Playpause = () => {
   )
 }
 
-export default Playpause
+export default PlayPause
